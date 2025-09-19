@@ -64,16 +64,14 @@
         </dependency>
         <!-- RESTEasy Reactive -->
         <dependency>
-            <groupId>io.quarkus.resteasy.reactive</groupId>
-            <artifactId>resteasy-reactive</artifactId>
-            <version>3.26.4</version>
+            <groupId>io.quarkus</groupId>
+            <artifactId>quarkus-rest</artifactId>
         </dependency>
 
         <!-- RESTEasy Reactive Jackson -->
         <dependency>
-            <groupId>io.quarkus.resteasy.reactive</groupId>
-            <artifactId>resteasy-reactive-jackson</artifactId>
-            <version>3.26.4</version>
+            <groupId>io.quarkus</groupId>
+            <artifactId>quarkus-rest-jackson</artifactId>
         </dependency>
         <dependency>
             <groupId>io.quarkus</groupId>
